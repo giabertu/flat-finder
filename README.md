@@ -1,4 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Flat Finder Application for FDM
+
+Hey! Thanks for checking out this project. This project was commissioned by FDM, a global recruiting company. Me, alongside 6 developers, created this cross-platform full-stack application for consultants to connect, find properties, and relocate. Some of the main feautures include:
+
+-instant messaging
+
+-map view using Google Maps
+
+-search listings
+
+-adding listings
+
+-saving listings
+
+-opening support tickets
+
+And much more. There are two other repositories that you could find, which are flat-finder-server and flat-finder-mobile.
+
+## Screenshots
+<div style="display: flex">
+  <img src="https://res.cloudinary.com/gianni-bertuzzi/image/upload/v1682604855/Screenshot_2023-04-27_at_15.14.06_wwonbw.png" alt="drawing" width="500"/>
+  <img src="https://res.cloudinary.com/gianni-bertuzzi/image/upload/v1682605359/Screenshot_2023-04-27_at_15.21.52_ww37qh.png" alt="drawing" width="500"/>
+  <img src="https://res.cloudinary.com/gianni-bertuzzi/image/upload/v1682605451/Screenshot_2023-04-27_at_15.24.01_z1q6qv.png" alt="drawing" width="500"/>
+  <img src="https://res.cloudinary.com/gianni-bertuzzi/image/upload/v1682605598/Screenshot_2023-04-27_at_15.26.19_o5oae1.png" alt="drawing" width="500"/>
+</div>
+
 
 ## Getting Started
 
